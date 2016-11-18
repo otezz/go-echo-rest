@@ -1,0 +1,15 @@
+app:
+  env: local
+  httpaddr: 127.0.0.1
+  httpport: 3001
+
+db:
+  driver: mysql
+  host: localhost
+  port: 3306
+  name: golang_rest
+  user: root
+  password:
+
+jwt:
+  secret: mysecretkey
