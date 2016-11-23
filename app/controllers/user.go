@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/labstack/echo"
-	"github.com/otezz/echo-rest/app/models"
+	"github.com/otezz/go-echo-rest/app/models"
 	"golang.org/x/crypto/bcrypt"
 )
 

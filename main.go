@@ -2,10 +2,10 @@ package main
 
 import (
     "fmt"
-    "github.com/otezz/echo-rest/config"
+    "github.com/otezz/go-echo-rest/config"
     "github.com/labstack/echo"
     "github.com/labstack/echo/middleware"
-    "github.com/otezz/echo-rest/app/controllers"
+    "github.com/otezz/go-echo-rest/app/controllers"
 )
 
 var appConfig = config.Config.App

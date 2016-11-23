@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/otezz/echo-rest/db"
+	"github.com/otezz/go-echo-rest/db"
 	"time"
 )
 

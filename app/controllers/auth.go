@@ -6,11 +6,11 @@ import (
     //"time"
     "net/http"
     //"os/user"
-    "github.com/otezz/echo-rest/app/models"
+    "github.com/otezz/go-echo-rest/app/models"
     "golang.org/x/crypto/bcrypt"
     "github.com/dgrijalva/jwt-go"
     "time"
-    "github.com/otezz/echo-rest/config"
+    "github.com/otezz/go-echo-rest/config"
 )
 
 var jwtConfig = config.Config.JWT

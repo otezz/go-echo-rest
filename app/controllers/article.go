@@ -6,7 +6,7 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/labstack/echo"
-	"github.com/otezz/echo-rest/app/models"
+	"github.com/otezz/go-echo-rest/app/models"
 )
 
 // get all articles
